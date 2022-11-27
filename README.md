@@ -6,7 +6,8 @@
 
 <div>
   <p>- 🔭 Cuidando de alguns dados...</p>
-  <p>- 🌱 Aprendizado contínuo em Python, Big Data e BI.</p>
+  <p>- 🌱 Aprendizado contínuo em tecnologias de Big Data e disponibilização de dados.</p>
+  <p>- 📚 Cursando Engenharia de Software no Instituto INFNET.</p>
 </div>
   
 ##
